@@ -226,8 +226,8 @@ lib/
 ### 1. Cloner le dépôt
 
 ```bash
-git clone <url-du-depot>
-cd ltia
+git clone https://github.com/MonkeyLuffy9745/LTIA-2
+cd src
 ```
 
 ### 2. Installer les dépendances Flutter
